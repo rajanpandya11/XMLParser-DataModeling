@@ -1,0 +1,5 @@
+
+create object of XMLParser class in your code. Call "startParsing" method, and pass three args
+ arg1 = xsd file name with .xsd
+ arg2 = xml file name with .xml
+ arg3 = output file name with .txt
